@@ -1,1 +1,3 @@
 # inst314project6
+
+This dataset contains responses from 10 participants regarding their opinions on different approaches within feminism. Participants were presented with a description of three feminism approaches: difference-denying, difference-removing, and difference-honoring feminism. They were then asked to approximate their degree of agreement with each approach using a scale from 1 to 10, where 1 represented "strongly disagree" and 10 represented "strongly agree." Participants were also asked to indicate which approach they believed had the most cultural and political impact in the past few decades. The survey also included a question about their motherhood status.
